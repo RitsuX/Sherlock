@@ -3,6 +3,14 @@
 
 ---
 
+## What is OSINT?
+
+**OSINT** stands for **Open-Source Intelligence**, which means collecting information from publicly available sources online, such as websites, social media, and forums.
+
+Sherlock is an OSINT tool used to find usernames across many social networks by gathering publicly accessible data.
+
+---
+
 ## **1. Installation**
 
 ### **Prerequisites**
